@@ -1,0 +1,6 @@
+C:\Users\a\RiderProjects\TwoSets\TwoSets\TwoSets\bin\Debug\TwoSets.dll
+C:\Users\a\RiderProjects\TwoSets\TwoSets\TwoSets\bin\Debug\TwoSets.pdb
+C:\Users\a\RiderProjects\TwoSets\TwoSets\TwoSets\obj\Debug\TwoSets.csproj.AssemblyReference.cache
+C:\Users\a\RiderProjects\TwoSets\TwoSets\TwoSets\obj\Debug\TwoSets.csproj.CoreCompileInputs.cache
+C:\Users\a\RiderProjects\TwoSets\TwoSets\TwoSets\obj\Debug\TwoSets.dll
+C:\Users\a\RiderProjects\TwoSets\TwoSets\TwoSets\obj\Debug\TwoSets.pdb
